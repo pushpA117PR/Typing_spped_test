@@ -78,5 +78,30 @@ Server will start at:
 http://localhost:8080
 
 
-## 📂 Project Structure
+
+---
+
+## Output
+
+- Displays:
+- Time taken
+- Typing speed (WPM)
+- Accuracy percentage
+- Highlighted typing mistakes
+
+---
+
+## Future Enhancements
+
+- User authentication
+- Result history tracking
+- Timer-based difficulty levels
+- Deployment using cloud services
+
+---
+
+## Author
+
+**Pushpa P R**  
+GitHub: https://github.com/pushpA117PR
 
